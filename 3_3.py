@@ -1,3 +1,4 @@
+#Поміняти між собою значення двох змінних, не використовуючи третьої змінної.
 a=int(input('Put your first value, '))
 b=int(input('Put your second value, '))
 a,b=b,a
